@@ -7,7 +7,7 @@ class Editor:
                 with open(path, "w", encoding=encoding):
                     pass
             else:
-                RuntimeError("File doesn't exists at '" + path + "'")
+                raise RuntimeError("File doesn't exists at '" + path + "'")
         self.auto_save = auto_save
         self.path = path
         self.encoding = encoding
