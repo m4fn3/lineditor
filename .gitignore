@@ -1,2 +1,4 @@
 lineditor/__pycache__
 lineditor.egg-info
+build
+dist

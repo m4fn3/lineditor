@@ -1,10 +1,22 @@
 # lineditor
+[![Python Versions](https://img.shields.io/pypi/pyversions/lineditor.svg)](https://pypi.org/project/lineditor/)
+[![PyPI version](https://badge.fury.io/py/lineditor.svg)](https://badge.fury.io/py/lineditor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Simple library to edit or read text of specific line.
 
+2020/12/20 - Now lineditor available on PyPI !
+
 ## Install
+A. From PyPI ( stable )
+
+`pip install lineditor`
+
+B. From GitHub ( latest )
+
 `git clone https://github.com/mafusuke/lineditor.git && cd lineditor && pip install -e .`
 
-## Usage
+## Sample Usage
 ```python
 import lineditor
 
