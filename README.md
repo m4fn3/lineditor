@@ -1,6 +1,6 @@
 # lineditor
 [![Python Versions](https://img.shields.io/pypi/pyversions/lineditor.svg)](https://pypi.org/project/lineditor/)
-[![PyPI version](https://badge.fury.io/py/lineditor.svg)](https://badge.fury.io/py/lineditor)
+[![PyPI version](https://img.shields.io/pypi/v/lineditor)](https://pypi.org/project/lineditor/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Simple library to edit or read text of specific line.
