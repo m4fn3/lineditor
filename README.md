@@ -14,7 +14,7 @@ A. From PyPI ( stable )
 
 B. From GitHub ( latest )
 
-`git clone https://github.com/mafusuke/lineditor.git && cd lineditor && pip install -e .`
+`pip install git+https://github.com/mafusuke/lineditor.git`
 
 ## Sample Usage
 ```python
